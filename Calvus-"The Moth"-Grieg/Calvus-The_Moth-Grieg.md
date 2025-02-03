@@ -100,7 +100,7 @@ A large, firefly emitting ghostly blue light, kept in a delicate glass-and-wire 
 - “To understand the world, one must risk being consumed by it.”
 
 
-### About Heritage
+### About Heritage and Faith
 
 - "The sea knows your name before you’re born."
 
