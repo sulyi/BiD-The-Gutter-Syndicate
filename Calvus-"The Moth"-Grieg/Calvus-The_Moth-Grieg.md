@@ -111,9 +111,19 @@ A large, firefly emitting ghostly blue light, kept in a delicate glass-and-wire 
 
 - "A fish caught in a dream fills no bellies."
 
+- "No use mending nets while the jetty-troll is hungry."
+
+- "Better to owe a troll a favor than a ghoul a debt."
+
+- "Not even trolls don’t build bridges for free."
+
 
 ### About Leadership
 
 -  "Every ship has two captains: the one at the helm and the other chosen by the sea."
+
+- "You can bargain with a mist-hag, but you’ll never get your soul back."
+
+- "The sea-witch laughs at the man who curses the waves."
 
 
