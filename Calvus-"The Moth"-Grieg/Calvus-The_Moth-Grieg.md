@@ -63,7 +63,8 @@ That's where he got his scars. (**TBD:** Exact circumstances)
 
 ### Alchemist
 
-Known recipes:
+### Known recipes
+
 - Standstill (A powder that causes temporary paralysis)
 
 
