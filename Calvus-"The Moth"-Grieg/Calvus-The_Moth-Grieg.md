@@ -63,11 +63,11 @@ That's where he got his scars. (**TBD:** Exact circumstances)
 
 ### Alchemist
 
-### Known recipes
+#### Known recipes
 
 - Standstill (A powder that causes temporary paralysis)
 
-### Crafting Ideas
+## Crafting Ideas
 
 - Add a foldable crane or a retractable conveyor belt to Cinder Belle
 
