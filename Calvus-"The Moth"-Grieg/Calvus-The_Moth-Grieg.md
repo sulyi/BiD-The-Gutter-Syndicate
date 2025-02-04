@@ -67,6 +67,14 @@ That's where he got his scars. (**TBD:** Exact circumstances)
 
 - Standstill (A powder that causes temporary paralysis)
 
+### Crafting Ideas
+
+- Add a foldable crane or a retractable conveyor belt to Cinder Belle
+
+- Make Cinder Belle submersible (long term project?)
+
+- Invisibility cloak by infusing it with arcane supplements 
+
 
 ## Vice
 
