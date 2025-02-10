@@ -75,6 +75,9 @@ That's where he got his scars. (**TBD:** Exact circumstances)
 
 - Invisibility cloak by infusing it with arcane supplements (invention)
 
+- Make bunch of supplies for The Weeping Lady
+
+- Expand vault
 
 
 ## Vice
