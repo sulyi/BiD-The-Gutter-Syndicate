@@ -73,7 +73,7 @@ That's where he got his scars. (**TBD:** Exact circumstances)
 
 - Make Cinder Belle submersible (multistep project)
 
-- Invisibility cloak by infusing it with arcane supplements (invention)
+- Invisibility cloak by infusing it with arcane supplements named "Cloak of Hollow Light" (invention)
 
 - Make bunch of supplies for The Weeping Lady
 
