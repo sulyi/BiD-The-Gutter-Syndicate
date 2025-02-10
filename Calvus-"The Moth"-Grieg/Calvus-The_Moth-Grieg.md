@@ -101,14 +101,14 @@ A large, firefly emitting ghostly blue light, kept in a delicate glass-and-wire 
 
 - "No man outruns the wave he never saw coming."
 
-- "A net mended in silence catches the most fish."
+- ~~"A net mended in silence catches the most fish."~~
 
 
 ### About Knowledge
 
 - “A thing made well will outlive its maker.”
 
-- “The brightest light casts the deepest shadow.”
+- ~~“The brightest light casts the deepest shadow.”~~
 
 - “To understand the world, one must risk being consumed by it.”
 
