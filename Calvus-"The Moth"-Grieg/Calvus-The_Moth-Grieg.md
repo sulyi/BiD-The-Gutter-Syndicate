@@ -99,7 +99,7 @@ A large, firefly emitting ghostly blue light, kept in a delicate glass-and-wire 
 
 ### About Stealth
 
-- "No man outruns the wave he never saw coming."
+- ~~"No man outruns the wave he never saw coming."~~
 
 - ~~"A net mended in silence catches the most fish."~~
 
