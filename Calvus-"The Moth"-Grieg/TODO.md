@@ -1,9 +1,9 @@
 1. Indulge vice
 
-2. Help Todd with The Weeping Lady
+2. Heal harm
 
-3. Heal level 1 harm
+3. Reduce heat
 
-4. Reduce heat
+4. Help Todd with The Weeping Lady
 
 5. Continue inventing Invisibility Cloak 
