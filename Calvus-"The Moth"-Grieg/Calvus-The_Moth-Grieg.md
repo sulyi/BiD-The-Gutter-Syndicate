@@ -106,6 +106,8 @@ A large, firefly emitting ghostly blue light, kept in a delicate glass-and-wire 
 
 ### About Stealth
 
+- ~~"Even the boldest gull cannot ride the storm forever."~~
+
 - ~~"No man outruns the wave he never saw coming."~~
 
 - ~~"A net mended in silence catches the most fish."~~
@@ -133,7 +135,7 @@ A large, firefly emitting ghostly blue light, kept in a delicate glass-and-wire 
 
 - "No use mending nets while the jetty-troll is hungry."
 
-- "Better to owe a troll a favor than a ghoul a debt."
+- ~~"Better to owe a troll a favor than a ghoul a debt."~~
 
 - "Not even trolls don’t build bridges for free."
 
@@ -146,4 +148,10 @@ A large, firefly emitting ghostly blue light, kept in a delicate glass-and-wire 
 
 - "The sea-witch laughs at the man who curses the waves."
 
+- "A captain without a keel will drift with the tide."
 
+- "A den without a master is just a hole in the dirt."
+
+- "The river follows the moon, but the wise beast knows when to swim against the current."
+
+- ~~"The wolf that leads from the front starves last, but the one who lingers is the first to be forgotten."~~
