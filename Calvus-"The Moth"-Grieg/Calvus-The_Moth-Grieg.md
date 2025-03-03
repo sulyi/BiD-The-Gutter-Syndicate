@@ -67,6 +67,13 @@ That's where he got his scars. (**TBD:** Exact circumstances)
 
 - Standstill (A powder that causes temporary paralysis)
 
+### Artificer
+
+#### Known recipes
+
+-- Drowned Fang (an electroplasmically-scorched gemstone made of mould and shark's teeth)
+
+
 ## Crafting Ideas
 
 - Add a foldable crane or a retractable conveyor belt to Cinder Belle
