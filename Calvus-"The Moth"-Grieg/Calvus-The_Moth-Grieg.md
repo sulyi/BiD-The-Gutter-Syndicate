@@ -82,10 +82,7 @@ That's where he got his scars. (**TBD:** Exact circumstances)
 
 - Invisibility cloak by infusing it with arcane supplements named "Cloak of Hollow Light" (invention)
 
-- Make bunch of supplies for The Weeping Lady
-
-- Expand vault
-
+- Vitality potion (needs to be invented)
 
 ## Vice
 
