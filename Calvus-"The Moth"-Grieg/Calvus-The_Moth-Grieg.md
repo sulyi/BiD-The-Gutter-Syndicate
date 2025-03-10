@@ -71,7 +71,7 @@ That's where he got his scars. (**TBD:** Exact circumstances)
 
 #### Known recipes
 
--- Drowned Fang (an electroplasmically-scorched gemstone made of mould and shark's teeth)
+- Drowned Fang (an electroplasmically-scorched gemstone made of mould and shark's teeth)
 
 
 ## Crafting Ideas
