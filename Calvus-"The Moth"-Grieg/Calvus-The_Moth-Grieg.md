@@ -152,3 +152,17 @@ A large, firefly emitting ghostly blue light, kept in a delicate glass-and-wire 
 - "The river follows the moon, but the wise beast knows when to swim against the current."
 
 - ~~"The wolf that leads from the front starves last, but the one who lingers is the first to be forgotten."~~
+
+### About stealth
+
+- “A whisper to the wrong ear is a dagger to your own throat.”
+
+- “The sea keeps no footprints, and neither should you.”
+
+- “The shadow moves first, the man follows after.”
+
+- “Never chase the flickering light; it leads only to hungry mouths.”
+
+- “Three tongues weave a rope strong enough to hang a king.”
+
+- “The sky is empty, but the storm is already listening.”
