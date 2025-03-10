@@ -1,9 +1,7 @@
 1. Indulge vice
 
-2. Dead mans's gambit
+2. Heal harm
 
-3. Heal harm
+3. Dead mans's gambit
 
-4. Reduce heat
-
-5. Continue inventing Invisibility Cloak 
+4. Continue inventing Invisibility Cloak 
